@@ -11,7 +11,7 @@ This repository contains the implementations and output screenshots for the Arti
 | Experiment 3 | Tic-Tac-Toe using Minimax Algorithm | 2 |
 | Experiment 4 | Arithmetic and Statistical Calculations | 1 |
 | Experiment 5 | Python Libraries, Data Handling and Visualization | Multiple |
-| Experiment 6 | Data Preprocessing using Python | Refer to folder |
+| Experiment 6 | Data Preprocessing using Python | 7 |
 
 ---
 
@@ -120,4 +120,4 @@ To download a dataset from UCI or other open repositories and perform basic data
 [Exp 6 Notebook](./Experiment-6/Exp%206.ipynb)
 
 **Output Screenshots:**  
-[View Experiment 6 Outputs](./Experiment-6/output/)
+[Experiment 6 Outputs](./Experiment-6/output/)
